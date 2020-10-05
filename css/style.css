@@ -49,6 +49,8 @@
 #logo { margin-top: 20px; }
 .boxed #logo { margin-top: 35px; }
 
+#logoColor { color: #f9844a; font-family: 'Nobile', sans-serif;}
+
 #logo a img {
 	float: left;
 	width: auto;
